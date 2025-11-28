@@ -12,6 +12,11 @@ This guide provides instructions for setting up a Docker-based development envir
 ---
 
 ## Prerequisites
+### Lift Hardware
+1. Connect Raspberry Pi 5 to USB-C power
+2. Connect motor driver connectors to portable power supply at 13.5V
+3. Ensure 5kg of weights attached as counterweight
+
 ### On Raspberry Pi 5
 
 1. **Install Docker:**
